@@ -7,7 +7,10 @@
   - [Screenshot](#Screenshot)
 
   ## Description
-   This page is a text editor where user can edit any information on. This single page application is build with PWA, that retrieves data after user reloads or re-opens the page.
+   This page is a text editor where user can edit any information on. 
+   
+   This single page application is build with PWA, that retrieves data after user reloads or re-opens the page.
+   
    In addition, the application can also be run offline by simply clicking the install button or icon.
 
   ## Installation
@@ -26,6 +29,7 @@
    Please click [here](https://immense-cliffs-49791.herokuapp.com/) to access the deployed site.
 
   ## Screenshot
-  
+  ![image](https://user-images.githubusercontent.com/99180884/196205174-9deeaffc-27a6-46e9-b4c0-4a09d1287078.png)
+
 
 
