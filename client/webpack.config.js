@@ -15,7 +15,7 @@ module.exports = () => {
       filename: '[name].bundle.js',
       path: path.resolve(__dirname, 'dist'),
     },
-    // TODO: Add and configure workbox plugins for a service worker and manifest file.
+   
     plugins: [
       new HtmlWebpackPlugin({
         template: './index.html',
@@ -49,7 +49,7 @@ module.exports = () => {
       }),
     ],
 
-    // TODO: Add CSS loaders and babel to webpack.
+  
     module: {
       rules: [
         {
